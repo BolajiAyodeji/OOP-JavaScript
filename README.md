@@ -51,7 +51,7 @@ $ git push -u origin master
 - Wait for Review (Your PR would be reviewed and merged if deemed fit)
 
 ## Reference
-[CodeWithMosh JavaScript for Begineers Course](https://codewithmosh.com/courses/324741)
+[CodeWithMosh Object Oriented JavaScript Course](https://codewithmosh.com/courses/310571)
 
 ## Helpful Resources
 
