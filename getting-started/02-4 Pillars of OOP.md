@@ -1,20 +1,19 @@
 # The four pillars of OOP
 
-ENCAPSULATION
-ABSTRACTION
-INHERITANCE
-POLYMORPHISM
+- ENCAPSULATION
+- ABSTRACTION
+- INHERITANCE
+- POLYMORPHISM
 
-E N C A P S U L A T I O N
+## ENCAPSULATION
 This is basically grouping related variables and functions that operate on them into Objects.
 
-
-A B S T R A C T I O N
+## ABSTRACTION
 Helps to reduce the impact of change, hides complexity and chuns a simpler interface.
 
-I N H E R I T A N C E
+## INHERITANCE
 A mechanism that helps to eliminate redundant code.
 
-P O L Y M O R P H I S M
+## POLYMORPHISM
 Poly means many, morphism mean forms
 A technique that helps to get ride of long if and else statements and switch cases.
