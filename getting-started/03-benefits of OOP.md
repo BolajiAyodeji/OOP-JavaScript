@@ -1,17 +1,17 @@
 # Benefits of OOP
 
-Encapsulation
+## Encapsulation
 - Group related variables and functions together.
 - Reduce complexity.
 - Increase reusability.
 
-Abstraction
+## Abstraction
 - Hide complexity and show only essentials.
 - Reduce complexity.
 - Isolates the impact of change.
 
-Inheritance
+## Inheritance
 - Eliminate redundant code
 
-Polymorphism
+## Polymorphism
 - Refactor ugly if/else statements ans switch cases.
