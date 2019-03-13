@@ -8,6 +8,4 @@ const circle = {
   draw: function() {
     console.log('draw');
   }
-};
-
-circle.draw();
+}
