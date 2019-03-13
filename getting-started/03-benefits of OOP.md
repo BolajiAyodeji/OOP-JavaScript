@@ -14,4 +14,4 @@
 - Eliminate redundant code
 
 ## Polymorphism
-- Refactor ugly if/else statements ans switch cases.
+- Refactor ugly if/else statements and switch cases.
