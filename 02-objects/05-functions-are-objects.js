@@ -12,9 +12,7 @@ console.log(
   Circle.length,
   Circle.constructor,
   Circle.call({}, 1, 2, 3),
-  Circle.apply({}, [1, 2 , 3]),
-
-
+  Circle.apply({}, [1, 2 , 3])
 );
 
 const Circle2 = new Function('radius', `
