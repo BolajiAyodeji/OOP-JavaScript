@@ -50,6 +50,7 @@ console.log(x.__proto__ === y.__proto__);
 
 
 // Prototypical Inheritance
-// when you access a property or method on an Object, JavaScript engine first checks if the method/property belongs to the Object, else it checks the prototype down to the root till it finds it and inherits it.
+// when you access a property or method on an Object, JavaScript engine first checks if the method/property belongs to the Object,
+// else it checks the prototype down to the root till it finds it and inherits it.
 
 x.toString();
