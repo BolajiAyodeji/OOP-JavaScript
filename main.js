@@ -13,13 +13,27 @@ Shape.prototype.duplicate = function() {
 
 function Circle() {
 }
-
 extend(Circle, Shape);
 
 Circle.prototype.duplicate = function() {
-  Shape.prototype.duplicate.call(this);
-
   console.log('duplicate circle');
 }
 
-const c = new Circle();
+function Square() {
+}
+extend(Square, Shape)
+
+Square.prototype.duplicate = function() {
+  console.log('duplicate square');
+}
+
+const shapes = [
+  new Circle(),
+  new Square(),
+  new Circle(),
+  new Square
+];
+
+shapes.map(shape => {
+  shape.duplicate();
+})
