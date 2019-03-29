@@ -1,23 +1,15 @@
 
-// function Circle(radius) {
-//   this.radius = radius;
+sayHello()
 
-//   this.draw = function() {
-//     console.log('drawing');
-//   }
-// }
-
-class Circle {
-  constructor(radius) {
-    this.radius = radius;
-    this.move = function() {
-      console.log('moving');
-    }
-  }
-
-  draw() {
-    console.log('drawing');
-  }
+// Function Declaration
+function sayHello() {
+  console.log('hello');
 }
 
-const c = new Circle(2);
+// Function Expression
+const sayGoodBye = function() {
+  console.log('goodbye')
+};
+
+//Function declarations are hoisted [Moved to the top of the JavaScript file
+//before runtime and will run first before others]
