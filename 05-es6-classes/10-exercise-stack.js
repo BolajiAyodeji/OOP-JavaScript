@@ -39,7 +39,8 @@ class Stack {
 
 const stack = new Stack();
 
-stack.count
-stack.peek();
-stack.push('a');
-stack.pop();
+// test in console
+stack.count // to view stacks lenght
+stack.peek(); // to view top item in stack
+stack.push('a'); // to add item to stack
+stack.pop(); // to remove top item from stack
