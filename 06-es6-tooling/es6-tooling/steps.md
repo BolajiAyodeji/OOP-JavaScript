@@ -7,3 +7,8 @@
 - In .babelrc, add {
   "presets": ["@babel/preset-env"]
 }
+
+# Installing Webpack
+
+- npm install i -g webpack
+- npm install --save-dev webpack-cli
