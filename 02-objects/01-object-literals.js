@@ -10,4 +10,5 @@ const circle = {
   }
 };
 
+// call this function
 circle.draw();
