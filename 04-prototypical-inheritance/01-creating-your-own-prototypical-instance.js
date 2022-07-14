@@ -3,7 +3,9 @@ function Shape() {
 
 }
 
-Shape.prototygplpe.duplicate = function() {
+// Shape.prototygplpe.duplicate = function() { 
+// Fixed typo.
+Shape.prototype.duplicate = function() {
   console.log('duplicate');
 }
 
