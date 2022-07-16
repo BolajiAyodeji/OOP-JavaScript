@@ -3,7 +3,7 @@ function Shape() {
 
 }
 
-Shape.prototygplpe.duplicate = function() {
+Shape.prototype.duplicate = function() {
   console.log('duplicate');
 }
 
